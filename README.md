@@ -172,3 +172,5 @@ A more opinionated project template with sample/reusable configs, scripts and co
 https://github.com/martenwallewein/go-sample-microservice
 
 https://github.com/golang-standards/project-layout
+
+https://github.com/javiersoto15/skeleton-tutorial
